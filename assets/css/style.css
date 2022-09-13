@@ -38,7 +38,7 @@ header {
 }
 
 .bottone-task {
-    background-color: #20adf2;
+    background-color: #45ABEA;
     color: #fff;
 }
 
@@ -70,6 +70,89 @@ h3::before {
     content: "\25BE";
 }
 
+#containerliste{
+    padding: 30px 30px;
+}
+
+.taskcompletata {
+   
+        color: green;
+        border: 1px solid green;
+        border-radius: 100%;
+        padding:  3px;
+        margin-right: 10px;
+    }
+
+    .tasknoncompletata{
+        color: red;
+        border: 1px solid red;
+        border-radius: 100%;
+        padding:  3px;
+        margin-right: 10px;
+    }
+
 li {
     list-style: none;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 17px;
 }
+
+ul {
+    padding: 5px;
+    margin-bottom: 50px;
+}
+
+
+.editorialblu{
+    margin-left: 10px;
+    font-size: 10px;
+    background-color: #45ABEA;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.mobilearancione{
+    margin-left: 10px;
+    font-size: 10px;
+    background-color: #F29E33;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.goalsviola {
+    margin-left: 10px;
+    font-size: 10px;
+    background-color: #9C72E4;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.recruiting {
+  
+        margin-left: 20px;
+        font-size: 10px;
+        background-color: #64C0A9;
+        color: white;
+        border-radius: 20px;
+        padding: 10px 20px;
+    }
+
+    .salesverde {
+
+        margin-left: 20px;
+        font-size: 10px;
+        background-color: #B0C926;
+        color: white;
+        border-radius: 20px;
+        padding: 10px 20px;   
+    }
+
+    #happy {
+        padding-top: 100px;
+        font-size: 20px;
+        text-align: center;
+    }

@@ -28,11 +28,35 @@ header {
     background-color: #fff;
 }
 
+
+.bottone {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    font-size: 18px;
+}
+
+.bottone-task {
+    background-color: #20adf2;
+    color: #fff;
+}
+
+.bottone-section {
+    background-color: #fff;
+    color: grey;
+    border-color: lightgray;
+
+}
+
+.barrabottoni {
+    border-bottom: 1px solid lightgrey;
+    padding: 20px 40px;
+    }
+    
+
 main {
     width: 50%;
     margin: 20px auto;
     background-color: #fff;
    
-    
-    
 }
